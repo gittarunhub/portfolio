@@ -36,12 +36,6 @@ If you can help us with these. Please don't hesitate to open a pull request.
 - Add some Animation
 - Add some more Section
 
-## Updates
-
-- Added Dark Mode
-
-  ![Dark Mode](https://github.com/AjitVerma15/Interactive-Portfolio/blob/master/Image/dark-mode-update.gif) - [PR](https://github.com/AjitVerma15/Interactive-Portfolio/pull/18) 26/08/2024
-
 ## Reference
 
 Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
